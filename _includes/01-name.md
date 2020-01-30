@@ -1,2 +1,2 @@
-#Tryshtopher
-##Writer and Knowledge Seeker
+# Tryshtopher
+## Writer and Knowledge Seeker
